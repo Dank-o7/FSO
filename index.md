@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## FSO
 
 You can use the [editor on GitHub](https://github.com/Dank-o7/FSO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
